@@ -1,0 +1,26 @@
+body {
+    background-image: url("./css/images/backgorund.jpg");
+    background-size: cover;
+    background-color: black;
+    background-blend-mode: normal;
+    margin: auto;
+}
+
+body h1 {
+    text-align: center;
+    color: black;
+    font-size: 75px;
+    font-family: comic sans;
+    font-weight: lighter; 
+}
+body button {
+    display: block;
+    margin: auto;
+    text-align: center;
+    height: 40px;
+    width: 80px;
+    background-color: darkblue;
+    color: white;
+    border-color: black;
+    border-radius: 15px;
+}
